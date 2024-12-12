@@ -1,0 +1,4 @@
+venv
+input_images/*
+output_images/*
+!.gitkeep
